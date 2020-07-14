@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="    public String ExcepcionDivisonPorCero(String msg) {"/>
+		<list key="findhistory">
+			<item value="    public String ExcepcionDivisonPorCero(String msg) {"/>
+			<item value="con un motor, cuatro ruedas y dos puertas;"/>
+			<item value="protected enum EMarca{"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="452"/>
+		<item key="DIALOG_Y_ORIGIN" value="248"/>
+	</section>
+</section>
